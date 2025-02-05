@@ -26,5 +26,3 @@ git pull origin master
 Now use the command **git log** to view all the commits
 
 ### [GitHub Cheat Sheet](https://training.github.com/downloads/github-git-cheat-sheet.pdf)
-
-<iframe src="github-git-cheat-sheet.pdf" width="100%" height="500" frameborder="0"></iframe>
