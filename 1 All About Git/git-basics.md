@@ -26,3 +26,5 @@ git pull origin master
 Now use the command **git log** to view all the commits
 
 ### [GitHub Cheat Sheet](https://training.github.com/downloads/github-git-cheat-sheet.pdf)
+
+### [How to write a perfect PR](https://github.blog/developer-skills/github/how-to-write-the-perfect-pull-request/)
